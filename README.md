@@ -1,6 +1,6 @@
 # Bank-Marketing-dataset
 This project aims to build a machine learning model that predicts whether a bank customer will subscribe to a term deposit based on their demographic details, financial status, and previous marketing interactions.
-The dataset comes from a real-world bank marketing campaign, where customers were contacted via phone calls. The goal is to help the bank identify potential customers more efficiently, reducing unnecessary calls and improving marketing success rates.
+The dataset comes from a real-world bank marketing campaign, where customers were contacted via phone calls. The goal is to help the bank identify potential customers more efficiently, reducing unnecessary calls and improving marketing success rates. 
 
 Key aspects of the problem:
 It is a binary classification problem:
